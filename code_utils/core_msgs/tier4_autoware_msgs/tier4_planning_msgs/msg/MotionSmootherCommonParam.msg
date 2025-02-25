@@ -1,0 +1,7 @@
+builtin_interfaces/Time stamp
+bool if_in_high_speed_area
+float32 max_velocity
+float32 min_acc
+float32 max_acc
+float32 min_jerk
+float32 max_jerk

@@ -1,0 +1,12 @@
+builtin_interfaces/Time stamp
+float32 estimate_velocity_from_pcl
+float32 estimate_velocity_fom_obj
+float32 obj_distance
+float32 final_obj_velocity
+float32 cur_vehicle_velocity
+float32 prev_velocity
+float32 raw_cruise_velocity
+float32 cruise_velocity
+int32   velocity_estimate_success
+int32 	cruise_plan_success
+int32   upper_thres_success
