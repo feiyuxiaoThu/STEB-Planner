@@ -1,6 +1,8 @@
 # STEB-Planner
 STEB-Planner is a spatio-temporal elastic bands based trajectory planner for autonomous vehicles using semantic graph  optimization.
 
+Keywords: autonomous driving, autonomous vehicle, motion planning, trajectory planning, path planning
+
 > The paper of this method is published on the IEEE Robotics and Automation Letters (RA-L)
 
 [Read the paper ](https://ieeexplore.ieee.org/document/10759749)
